@@ -14,4 +14,4 @@ plt.plot(measurements_file["N"], measurements_file["cpu time"]/1000, "ro-")
 plt.plot(measurements_file["N"], measurements_file["gpu time"]/1000, "bo-")
 plt.xlabel("Matrix row /column size")
 plt.ylabel("Time (milliseconds)")
-plt.show()˝
+plt.show()
