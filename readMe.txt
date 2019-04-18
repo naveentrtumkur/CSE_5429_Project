@@ -1,5 +1,5 @@
 ############################################################
-#######   Acceleration of Colvolution Operation using GPU ### 
+#######   Acceleration of Convolution Operation using GPU ### 
 ###########################################################
 
 
